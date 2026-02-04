@@ -6,7 +6,7 @@ import { HandTracker } from './HandTracker';
 import { Starfield } from './Particles/Starfield';
 import { Portal } from './Particles/Portal';
 import { Sparks } from './Particles/Sparks';
-import { useThree } from '@react-three/fiber';
+
 
 function SceneContent() {
     return (

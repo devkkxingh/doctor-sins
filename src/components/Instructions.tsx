@@ -1,5 +1,5 @@
 import { HandData } from '../utils/handStore';
-import { useFrame } from '@react-three/fiber'; // Not used in DOM component usually, but we need loop to check HandData?
+
 // Actually simpler to just show static instructions or use a small loop ref if we want dynamic feedback.
 // For now, static instructions are fine, maybe fade out if gesturing?
 
